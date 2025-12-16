@@ -2,7 +2,7 @@
 
 **Autor:** Luiz Tiago Wilcke
 
-Uma biblioteca completa de redes neurais implementadas do zero em Python/NumPy. Contém 20+ arquiteturas diferentes, todas com variáveis e documentação em português.
+Uma biblioteca completa de redes neurais implementadas do zero em Python/NumPy. Contém 20+ arquiteturas diferentes.
 
 ## 🧠 Redes Neurais Disponíveis
 
